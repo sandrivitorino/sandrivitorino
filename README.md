@@ -1,11 +1,11 @@
-### Olá pessoal! Estudande de Engenharia de Software👋💻
+### Hello everyone! I'm a Software engineering student and future developer :)👋💻
 
 <div align="center">
   <a href="https://github.com/sandrivitorino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sandrivitorino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrivitorino&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  Linguagens que uso atualmente:
+  Languages I use the most:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Mila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
