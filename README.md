@@ -1,4 +1,4 @@
-### Hello everyone! I'm a Software engineering student and future developer :)👋💻
+### Hello everyone!! I'm a software engineering student and future developer :)👋💻
 
 <div align="center">
   <a href="https://github.com/sandrivitorino">
