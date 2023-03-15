@@ -1,4 +1,4 @@
-### Hello World!! I'm a software engineering student and future developer :)👋💻
+### Hello World!:)👋💻
 <br/>
 
 <div align="center">
