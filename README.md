@@ -5,9 +5,9 @@
   
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Sandri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sandri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sandri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  <img align="center" alt="Sandri-Js" height="30" width="30" src="https://www.iconsdb.com/icons/preview/color/4B0076/js-xxl.png">
+  <img align="center" alt="Sandri-HTML" height="30" width="30" src="https://www.iconsdb.com/icons/preview/color/4B0076/html-xxl.png">
+  <img align="center" alt="Sandri-CSS" height="30" width="30" src="https://www.iconsdb.com/icons/preview/color/4B0076/css-xxl.png"
 </div>
   
   ##
