@@ -1,7 +1,7 @@
 
 <img  align="right" src="https://media0.giphy.com/media/joqrWzf3Bz9jG/giphy.gif?cid=ecf05e47uclmn9qw0k48kmmpzq2jlir57m1j4b1agmyc8brq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height='310px' width='370px'>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrivitorino&show_icons=true&border_color=00000000&theme=transparent&text_color=d6a718&icon_color=d6a718&bg_color=00000000&include_all_commits=true&count_private=true"/>
-<img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrivitorino&hide_border=true&layout=compact&text_color=d6a718&theme=transparent&bg_color=">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrivitorino&show_icons=true&border_color=00000000&theme=vision-friendly-dark&text_color=CFB53B&icon_color=d6a718&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrivitorino&hide_border=true&layout=compact&text_color=d6a718&theme=vision-friendly-dark&bg_color=00000000">
   
   
   <div style="display: inline_block"><br>
