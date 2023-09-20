@@ -8,9 +8,6 @@
   <img align="center" alt="Sandri-Js" height="50" width="50" src="https://github.com/sandrivitorino/sandrivitorino/assets/118567140/8a74f614-7c60-4b66-80e1-31cdd140d27b">
   <img align="center" alt="Sandri-HTML" height="50" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png">
   <img align="center" alt="Sandri-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=21278&format=png">
-  <img align="center" alt="Sandri-Sass" height="50" width="50" src="https://img.icons8.com/?size=256&id=QBqFNfPPB2Kx&format=png">
-  <img align="center" alt="Sandri-React" height="50" width="50" src="https://img.icons8.com/?size=256&id=t4YbEbA834uH&format=png">
-  <img align="center" alt="Sandri-Bootstrap" height="40" width="40" src="https://img.icons8.com/?size=256&id=ZMc42tPbG32H&format=png"> 
 </div>
   
   ##
