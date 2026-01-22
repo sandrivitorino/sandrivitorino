@@ -25,10 +25,10 @@ At the moment, my main focus is on:
 <img align="center" alt="Sandri-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=21278&format=png">
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000">
-  <img align="center" alt="Sandri-Js" height="45" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
-  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
-  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
+<img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000">
+<img align="center" alt="Sandri-Js" height="45" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
+<img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+<img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
   
 ---
 
