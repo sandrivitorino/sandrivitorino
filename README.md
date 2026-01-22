@@ -1,4 +1,4 @@
-Hi, I'm Sandrine Vitorino<br>
+Hi, I'm Sandri Vitorino but ppl call me Vonvit <br>
 🎓 Software Engineering Student<br>
 ☕ Backend-focused, currently learning Java<br>
 📍 Brazil<br>
