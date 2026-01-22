@@ -22,25 +22,19 @@ At the moment, my main focus is on:
 
 ---
 
-🛠️ Technologies & Tools
-
-**Backend**
+🛠️ **Technologies & Tools**
 <div style="display: inline_block"><br>
-  <img align="top-center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
+<img align="center" alt="Sandri-Js" height="60" width="60" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000">
+<img align="center" alt="Sandri-Js" height="50" width="50" src="https://github.com/sandrivitorino/sandrivitorino/assets/118567140/8a74f614-7c60-4b66-80e1-31cdd140d27b">
+<img align="center" alt="Sandri-HTML" height="50" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png">
+<img align="center" alt="Sandri-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=21278&format=png">
 
-
-**Frontend (previous experience)**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://github.com/sandrivitorino/sandrivitorino/assets/118567140/8a74f614-7c60-4b66-80e1-31cdd140d27b">
-  <img align="center" alt="Sandri-HTML" height="50" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png">
-  <img align="center" alt="Sandri-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=21278&format=png">
-
-**Other**
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-
+  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000">
+  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
+  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000">
+  <img align="center" alt="Sandri-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+  
 ---
 
 ### 📈 Continuous Learning
