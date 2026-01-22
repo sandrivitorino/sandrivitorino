@@ -7,7 +7,7 @@ Hi, I'm Sandrine Vitorino
 
 ---
 
-🧠 About Me
+**About Me**
 
 I am a Software Engineering student currently focused on **backend development with Java**.
 After some time away from GitHub, I returned to use it as a space to **document my studies, exercises, and academic projects**, tracking my learning progress consistently.
@@ -19,9 +19,7 @@ At the moment, my main focus is on:
 - Object-Oriented Programming (OOP)
 - Code structure and organization
 - Backend best practices
-
 ---
-
 🛠️ **Technologies & Tools**
 <div style="display: inline_block"><br>
 <img align="center" alt="Sandri-Js" height="60" width="60" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000">
