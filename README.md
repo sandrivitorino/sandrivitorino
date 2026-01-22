@@ -1,12 +1,9 @@
-
-Hi, I'm Sandrine Vitorino 
-
+Hi, I'm Sandrine Vitorino<br>
 🎓 Software Engineering Student<br>
 ☕ Backend-focused, currently learning Java<br>
 📍 Brazil<br>
 
 ---
-
 **About Me**
 
 I am a Software Engineering student currently focused on **backend development with Java**.
