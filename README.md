@@ -2,7 +2,7 @@ Hi, I'm Sandri Vitorino aka Vonvit<br>
 
 🎓 Software Engineering Student<br>
 ☕ Backend-focused, currently learning Java<br>
-📍 Brazil<br>
+📍 Brazil<br> 
 
 ---
 **About Me**
