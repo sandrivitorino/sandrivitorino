@@ -1,4 +1,4 @@
-
+Hi, I'm Sandri Vitorino aka Vonvit<br>
 
 🎓 Software Engineering Student<br>
 ☕ Backend-focused, currently learning Java<br>
@@ -22,7 +22,7 @@ At the moment, my main focus is on:
 <div style="display: inline_block"><br>
 <img align="center" alt="Sandri-Js" height="60" width="60" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000">
 <img align="center" alt="Sandri-Js" height="50" width="50" src="https://github.com/sandrivitorino/sandrivitorino/assets/118567140/8a74f614-7c60-4b66-80e1-31cdd140d27b">
-<img align="center" alt="Sandri-HTML" height="50" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png">
+<img align="center" alt="Sandri-HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
 <img align="center" alt="Sandri-CSS" height="50" width="50" src="https://img.icons8.com/?size=512&id=21278&format=png">
 
 <div style="display: inline_block"><br>
