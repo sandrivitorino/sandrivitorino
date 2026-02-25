@@ -3,7 +3,7 @@ Hi, I'm Sandri Vitorino<br>
 
 🎓 swe <br>
 ☕ Backend-focused, currently learning Java<br>
-📍 Brazil<br> 
+📍 Brasil<br> 
 
 ---
 **About Me**
