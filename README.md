@@ -1,5 +1,5 @@
 
-Hi, I'm Sandri Vitorino<br>
+Hi, I'm Sandrine Vitorino<br>
 
 🎓 swe <br>
 ☕ Backend-focused, currently learning Java<br>
