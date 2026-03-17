@@ -41,5 +41,9 @@ My goal is to build a strong foundation, focusing on fundamentals before moving 
   
 </div>
 
+<div align="center">
+ <img src="https://views-counter.vercel.app/badge?pageId=sandrivitorino%2FViews-Counter&leftColor=black&rightColor=2d3032&type=unique&sessionExpire=60&label=Visitors&style=small">
+</div>
+
 </div>
 
