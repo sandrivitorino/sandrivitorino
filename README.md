@@ -1,9 +1,9 @@
 
 Hi, I'm Sandrine Vitorino<br>
 
-swe <br>
-Backend-focused, currently learning Java<br>
-Brasil<br> 
+🎓 swe <br>
+☕ Backend-focused, currently learning Java<br>
+📍 Brasil<br> 
 
 ---
 **About Me**
