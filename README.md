@@ -1,5 +1,5 @@
 
-Hi, I'm Sandrine Vitorino 
+Hi, I'm Sandrine Vitorino aka vonvit
 
 🎓 swe <br>
 ☕ Backend-focused, currently learning Java<br>
