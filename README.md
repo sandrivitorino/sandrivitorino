@@ -1,4 +1,3 @@
-
 Hi, I'm Sandri Vitorino
 
 🎓 swe <br>
