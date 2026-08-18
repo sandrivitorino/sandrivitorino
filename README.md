@@ -1,4 +1,4 @@
-Hello, I'm Sandri Vitorino
+Hi, I'm Sandri Vitorino
 
 🎓 swe <br>
 ☕ Backend-focused, currently learning Java<br>
